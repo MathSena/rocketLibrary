@@ -38,6 +38,8 @@ Esse Sistema de Livraria é uma aplicação console em Java para gerenciamento d
 3. **Execute a aplicação:**
 
 `java com.livraria.Main`
+
+
 4. **Siga as instruções na interface de console:**
 
 - Selecione a opção desejada no menu.
